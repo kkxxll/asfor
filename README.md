@@ -1,3 +1,3 @@
-# as-cli
+# asfor-cli
 
 a package about react
