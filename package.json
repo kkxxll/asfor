@@ -1,0 +1,19 @@
+{
+  "name": "as-cli",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkxxll/as-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kkxxll/as-cli/issues"
+  },
+  "homepage": "https://github.com/kkxxll/as-cli#readme"
+}
