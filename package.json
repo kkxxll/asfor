@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "a package about react",
   "main": "index.js",
+  "bin": {
+    "asfor": "./bin/asfor.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +18,16 @@
   "bugs": {
     "url": "https://github.com/kkxxll/asfor/issues"
   },
-  "homepage": "https://github.com/kkxxll/asfor#readme"
+  "homepage": "https://github.com/kkxxll/asfor#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "clear": "^0.1.0",
+    "commander": "^6.2.0",
+    "download-git-repo": "^3.0.2",
+    "figlet": "^1.5.0",
+    "handlebars": "^4.7.6",
+    "open": "^7.3.0",
+    "ora": "^5.1.0",
+    "watch": "^1.0.2"
+  }
 }
