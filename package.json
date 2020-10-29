@@ -1,6 +1,6 @@
 {
   "name": "asfor",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "a package about react",
   "main": "index.js",
   "bin": {
