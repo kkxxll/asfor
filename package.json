@@ -4,7 +4,7 @@
   "description": "a package about react",
   "main": "index.js",
   "bin": {
-    "asfor": "./bin/asfor.js"
+    "kka": "./bin/asfor.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
